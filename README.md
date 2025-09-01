@@ -42,7 +42,8 @@ The aim is to create and simulate a CMOS inverter circuit with Cadence EDA tools
 
 #### 2. Schematic of CMOS Inverter:
 
-   ![image](https://github.com/user-attachments/assets/cbba1a98-bb12-417f-b0ab-edd8b4c78e7e)
+  <img width="1918" height="1072" alt="vlsi input1" src="https://github.com/user-attachments/assets/e1009cb6-b1dc-4553-b76d-86f10deb47a1" />
+
 
 #### 3. Transient Response Setup:
 
@@ -56,7 +57,8 @@ The aim is to create and simulate a CMOS inverter circuit with Cadence EDA tools
 ## Output
 #### 1.Transient Analysis Output
 
-  ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+  <img width="1918" height="1078" alt="vlsi1 output dc and trans" src="https://github.com/user-attachments/assets/8f54024b-392c-47c9-9da3-280fe55116c2" />
+
 
 
 ## Results:
